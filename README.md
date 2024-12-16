@@ -1,6 +1,8 @@
 # Fisher_s_Exact_R_Software
 Fisher's Exact Test for Count Data Use fisher.test With R Software
 
+https://www.youtube.com/watch?v=dWUYxbi8ZwE
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
